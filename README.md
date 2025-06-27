@@ -1,6 +1,6 @@
 # AQI_file
 
-# Define the README content as discussed
+# APPROACH 1
 PM2.5 Prediction Using Spatial-Meteorological Correlations
 
 This project aims to predict PM2.5 levels for multiple air quality monitoring stations using:
